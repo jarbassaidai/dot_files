@@ -30,7 +30,7 @@ ln -s dot_files/[
 
 Set up vim folders:
 ```
-mkdir ~/.vim/files/{backup,info,swap,undo}
+mkdir -p  ~/.vim/files/{backup,info,swap,undo}
 ```
 
 View the /includes folder for extended functionality.
